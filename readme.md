@@ -18,6 +18,18 @@ The provided solution deals with a number of typical problems:
 
 You can get more details, shell extension implementation basics, and problem situation explanations in the [related article](https://www.apriorit.com/dev-blog/357-shell-extentions-basics-samples-common-problems).
 
-License
+## About Apriorit
 
-Licensed under the MIT license. � Apriorit.
+This repository is a public technical example from Apriorit related to system and advanced software engineering.
+
+Apriorit is a cybersecurity-focused software engineering company that helps technology companies build secure, reliable, and high-performance software — from kernel-level components to cloud-based platforms.
+
+Learn more: https://www.apriorit.com/rd-services/custom-software-and-application-development-services
+
+Website: https://www.apriorit.com
+
+
+## License
+
+Licensed under the MIT license. © Apriorit.
+
